@@ -1,0 +1,4 @@
+result.sarif
+venv
+__pycache__
+vacations.db
